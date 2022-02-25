@@ -32,7 +32,7 @@
 			<exclusions> 
 				<exclusion>
 					<groupId>org.apache.logging.log4j</groupId>
-					<artifactId>log4j-api</artifactId>
+					<artifactId>log4j-api-2.12.1</artifactId>
 				</exclusion>
 			</exclusions>
 
